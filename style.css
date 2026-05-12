@@ -504,6 +504,15 @@ footer {
         font-size: 30px;
     }
 
+    .large-topic,
+    .large-topic.reverse,
+    .card-box,
+    .news-grid,
+    .contact-info,
+    .contact-layout {
+        grid-template-columns: 1fr;
+    }
+
     .large-topic.reverse img {
         order: 0;
     }
