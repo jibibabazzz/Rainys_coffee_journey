@@ -540,8 +540,7 @@ footer {
         font-size: 26px;
     }
 
-    .feature-box,
-    .cafe-grid {
+    .feature-box {
         grid-template-columns: 1fr;
     }
 
